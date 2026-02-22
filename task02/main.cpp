@@ -17,7 +17,7 @@ int main() {
 		cin >> array[index];
 	}
 
-	string msg = count_order(array, length) ? "yes" : "no";
+	string msg = check_mirror(array, length) ? "yes" : "no";
 
 	cout << msg;
 

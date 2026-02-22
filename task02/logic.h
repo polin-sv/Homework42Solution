@@ -4,4 +4,4 @@
 
 using namespace std;
 
-bool count_order(int array[DEFAULT_SIZE], int length);
+bool check_mirror(int array[DEFAULT_SIZE], int length);
